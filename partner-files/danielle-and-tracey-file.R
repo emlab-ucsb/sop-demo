@@ -1,7 +1,7 @@
 ## tracey and danielle's shared function
 
 activity_message <- function(activity) {
-  message <- paste("Hey! I just completed", activity, "on my fitness tracker!")
+  message <- paste("Hey!! I just completed", activity, "on my fitness tracker!")
   return(message)
 }
 

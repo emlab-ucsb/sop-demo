@@ -1,6 +1,6 @@
-# emLab SOP Demo
+# emLab Code Review Demo
 
-This repository is for the **Git & GitHub at emLab** code-along demo held on July 7, 2026 as a part of the updated [emLab Standard Operating Procedures (SOP)](https://emlab-ucsb.github.io/SOP/demo/) rollout. The demo focuses on using branches and pull requests with a focus on code review.
+This is a shared practice repository for the **Git & GitHub at emLab** code-along demo held on July 7, 2026 as a part of the updated [emLab Standard Operating Procedures (SOP)](https://emlab-ucsb.github.io/SOP/demo/) rollout. The demo will walk through the new elements of the SOP: formatting code, using GitHub issues, branching, using pull requests to conduct code review, and resolving merge conflicts. 
 
 ## Slides
 
